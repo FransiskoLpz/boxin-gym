@@ -11,7 +11,7 @@ function Offer() {
           Lorem ipsum dolor sit amet consectetur adipisicing.
         </p>
         <div className="pr-btns">
-          <a href="#" className="pr-btn">
+          <a href="#valid-link" className="pr-btn">
             JOIN NOW
           </a>
         </div>

@@ -12,7 +12,7 @@ function Header() {
           Build you body and fitness with professional touch
         </p>
         <div className="header-btns">
-          <a href="#" className="header-btn">
+          <a href="#valid-link" className="header-btn">
             Join Us
           </a>
         </div>

@@ -1,0 +1,36 @@
+/* Contact.css */
+
+#contact {
+  padding: 20px;
+}
+
+.contact-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.contact-form {
+  flex: 1;
+  min-width: 300px;
+  margin-right: 1.5em;
+}
+
+.contact-map {
+  flex: 1;
+  min-width: 300px;
+}
+
+/* Responsivo: Mapa arriba, formulario abajo */
+@media (max-width: 768px) {
+  .contact-container {
+    flex-direction: column;
+  }
+
+  .contact-form,
+  .contact-map {
+    margin-right: 0;
+    margin-bottom: 1.5em;
+  }
+}

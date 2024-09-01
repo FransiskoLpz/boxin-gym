@@ -24,23 +24,6 @@ function Footer() {
             <a className="fa-brands fa-instagram" href=""></a>
           </li>
         </ul>
-        <ul className="links">
-          <li>
-            <a href="">Home</a>
-          </li>
-          <li>
-            <a href="">About</a>
-          </li>
-          <li>
-            <a href="">Services</a>
-          </li>
-          <li>
-            <a href="">Team</a>
-          </li>
-          <li>
-            <a href="">Contact</a>
-          </li>
-        </ul>
         <p className="legal">2024 All rights reserved</p>
       </section>
     </div>

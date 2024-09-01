@@ -6,7 +6,6 @@ import Feature from "./components/Feature";
 import Offer from "./components/Offer";
 import About from "./components/About";
 import Contact from "./components/Contact";
-/* import Footer from "./components/Footer"; */
 
 const App = () => {
   return (
@@ -17,7 +16,6 @@ const App = () => {
       <Offer />
       <About />
       <Contact />
-      {/* <Footer /> */}
     </div>
   );
 };

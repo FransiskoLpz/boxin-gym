@@ -11,6 +11,7 @@ function Navbar() {
       setnav(false);
     }
   };
+
   window.addEventListener("scroll", changeBackground);
 
   return (

@@ -1,0 +1,15 @@
+.letter {
+  display: inline-block;
+  will-change: transform, opacity;
+  color: white; /* Letras en blanco */
+}
+
+.custom-span {
+  color: red;
+  white-space: nowrap;
+}
+
+.split-parent {
+  display: inline;
+  overflow: hidden;
+}

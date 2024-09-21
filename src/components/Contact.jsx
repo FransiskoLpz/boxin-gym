@@ -2,8 +2,6 @@ import React from "react";
 import "./Contact.css";
 
 function Contact() {
-  const spacing = 1.5;
-
   return (
     <div id="contact">
       <h1>CONTACT US</h1>
